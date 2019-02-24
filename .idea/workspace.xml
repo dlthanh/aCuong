@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0cca3e36-8000-4afa-888e-4e6b2b67f2db" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/fonts/NotoSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/fonts/NotoSerif-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/fonts/NotoSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/fonts/NotoSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/credit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/credit_tmp20556" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/credit_tmp22210" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/credit_tmp32158" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/img-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/sapo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/title-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/title-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/images/title-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/fonts/NotoSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/credit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/img-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/sapo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/title-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/title-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/images/title-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/jquery.fancybox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/js/wow.min.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="664">
+              <caret line="176" column="339" lean-forward="true" selection-start-line="172" selection-start-column="16" selection-end-line="176" selection-end-column="339" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="661">
+              <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mobile/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="678">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.html" />
+        <option value="$PROJECT_DIR$/web/css/style.css" />
+        <option value="$PROJECT_DIR$/mobile/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aCuong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aCuong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aCuong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aCuong" type="462c0819:PsiDirectoryNode" />
+              <item name="mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aCuong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aCuong" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aCuong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aCuong" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Dropbox\aCuong\mobile\images" />
+      <recent name="E:\Dropbox\aCuong\mobile" />
+      <recent name="E:\Dropbox\aCuong\web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cca3e36-8000-4afa-888e-4e6b2b67f2db" name="Default" comment="" />
+      <created>1551028584743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551028584743</updated>
+      <workItem from="1551028585973" duration="2230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="709000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/web/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="176" column="339" lean-forward="true" selection-start-line="172" selection-start-column="16" selection-end-line="176" selection-end-column="339" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mobile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
